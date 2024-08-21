@@ -6,9 +6,8 @@
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
-    "database": "/Users/georgesimos/mongodb/bin/mongod --dbpath=/Users/georgesimos//mongodb-data"
   },
-  "author": "George Simos <georgesimos.com>",
+  "author": "Shah Ahmad Raza",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
